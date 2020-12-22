@@ -1,1 +1,2 @@
-# Sorting-Algorithms
+# Sorting-Algorithm
+issue is resolved
